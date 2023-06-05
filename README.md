@@ -22,7 +22,7 @@ To establish the connection between the application and the MySQL database, the 
 
 ## Setup Instructions
 
-To set up the energy company simulation application on your development environment, follow these steps:
+To set up the energy company simulation application on your development environment, follow these steps or **(Follow the steps on the provide pdf file)**:
 
 1. Install the Eclipse IDE and MySQL Workbench on your system, if not already installed.
 
